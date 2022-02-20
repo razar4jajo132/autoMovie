@@ -1,2 +1,0 @@
-# autoMovie
-automatically create videos
